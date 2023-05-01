@@ -1,0 +1,9 @@
+{
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "vue"
+  ],
+  "eslint.enable": true,
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
